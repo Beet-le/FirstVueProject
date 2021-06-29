@@ -12,12 +12,12 @@
         </a>
       </li>
       <li>
-        <a
+<!--        <a
           href="https://forum.vuejs.org"
           target="_blank"
         >
           Forum
-        </a>
+        </a>-->
       </li>
       <li>
         <a
